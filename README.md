@@ -1,5 +1,5 @@
 ## Hi there, I'm Shakir 👋
-🌱 I’m currently learning: JavaScript, Java, and Swift.
+🌱 I’m currently learning: JavaScript, Java, and Swift.<br>
 📫 How to reach me: shakirnasim@outlook.com
 
 <!--
